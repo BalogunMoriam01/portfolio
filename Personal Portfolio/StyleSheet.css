@@ -1,0 +1,45 @@
+﻿ body{background-color:black; 
+      color:#FFFFCC;
+      margin-top: 0;
+      margin-right: 0;
+      margin-left: 0;
+      margin-bottom:0;
+ }
+ h1{
+     background-color:orangered;
+     color:#FFFFCC;
+     font-family:Edwardian Script ITC;
+     font-weight: 600;
+     font-size: 80px;
+     width: 100%;
+     
+ }
+#mail 
+{
+    font-size:large
+    text-decoration: none;
+     font-family: Bookman old style;
+     text-align: right;
+     color:#FFFFCC;
+}
+ a{
+     text-decoration: none;
+     font-family: Bookman old style;
+     font-size: x-large;
+     text-align: right;
+     color:#FFFFCC;
+ }
+ table{
+     background-color:black;
+     font-size:large;
+ }
+ article{
+     font-family:'Bookman Old Style';
+     font-size: x-large;
+     text-align: center;
+     width:70%;
+     background-color:#663300;
+ }
+ div{
+     background-color:orangered;
+ }

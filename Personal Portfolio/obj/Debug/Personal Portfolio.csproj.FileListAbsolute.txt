@@ -1,0 +1,12 @@
+C:\Users\moriam\Documents\300 LEVEL\SSG\300L\1st Semester\SSG 313 Proramming Languages\C# classes\Personal Portfolio\Personal Portfolio\bin\Personal Portfolio.dll.config
+C:\Users\moriam\Documents\300 LEVEL\SSG\300L\1st Semester\SSG 313 Proramming Languages\C# classes\Personal Portfolio\Personal Portfolio\bin\Personal Portfolio.dll
+C:\Users\moriam\Documents\300 LEVEL\SSG\300L\1st Semester\SSG 313 Proramming Languages\C# classes\Personal Portfolio\Personal Portfolio\bin\Personal Portfolio.pdb
+C:\Users\moriam\Documents\300 LEVEL\SSG\300L\1st Semester\SSG 313 Proramming Languages\C# classes\Personal Portfolio\Personal Portfolio\obj\Debug\Personal Portfolio.csprojResolveAssemblyReference.cache
+C:\Users\moriam\Documents\300 LEVEL\SSG\300L\1st Semester\SSG 313 Proramming Languages\C# classes\Personal Portfolio\Personal Portfolio\obj\Debug\Personal Portfolio.dll
+C:\Users\moriam\Documents\300 LEVEL\SSG\300L\1st Semester\SSG 313 Proramming Languages\C# classes\Personal Portfolio\Personal Portfolio\obj\Debug\Personal Portfolio.pdb
+E:\Personal Portfolio\Personal Portfolio\bin\Personal Portfolio.dll.config
+E:\Personal Portfolio\Personal Portfolio\bin\Personal Portfolio.dll
+E:\Personal Portfolio\Personal Portfolio\bin\Personal Portfolio.pdb
+E:\Personal Portfolio\Personal Portfolio\obj\Debug\Personal Portfolio.csprojResolveAssemblyReference.cache
+E:\Personal Portfolio\Personal Portfolio\obj\Debug\Personal Portfolio.dll
+E:\Personal Portfolio\Personal Portfolio\obj\Debug\Personal Portfolio.pdb
